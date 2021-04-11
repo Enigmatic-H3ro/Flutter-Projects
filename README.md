@@ -1,9 +1,9 @@
 # Flutter-Projects
 Some awesome flutter projects created in an Udemy course with customizations (See individual README.md files).
 
-![Image](vegas/assets/vegas.PNG)
-![Image](bmi/assets/bmi_image.PNG)
-![Image](todoey/assets/todoey_image.PNG)
+<img src="vegas/assets/vegas.PNG" height="700em">
+<img src="bmi/assets/bmi_image.PNG" height="700em">
+<img src="todoey/assets/todoey_image.PNG" height="700em">
 
 ### Some Screenshots
 
